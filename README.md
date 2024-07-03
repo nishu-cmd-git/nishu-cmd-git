@@ -1,4 +1,5 @@
 ## Hi there 👋
+author - Nishu mishra
 
 <!--
 **nishu-cmd-git/nishu-cmd-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
